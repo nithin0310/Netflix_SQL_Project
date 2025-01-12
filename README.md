@@ -262,4 +262,6 @@ GROUP BY category_label;
 **Content Distribution**: Netflix offers a wide variety of Movies and TV Shows, with distinct patterns in genres and ratings.
 **Geographic Insights**: Key countries like India dominate content production, with a clear trend in average releases over the years.
 **Categorization**: Content classification based on keywords provides insights into the themes prevalent in the dataset.
+
+
 This analysis serves as a foundation for understanding Netflix's content trends and can inform strategic decision-making for content planning.
